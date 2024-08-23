@@ -1,8 +1,5 @@
 program combinations_1_2_3
       !To generate the all combinations of 1,2 and 3
-      ! -----Programmer-----
-      ! ====================
-      ! Ameeya Bhusan Sahoo
       implicit none
       integer :: i
       integer :: j
