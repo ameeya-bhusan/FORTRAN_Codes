@@ -1,9 +1,6 @@
 program factorial
       !To find the factorial value of any number entered through the
       !keyboard
-      ! -----Programmer-----
-      ! ====================
-      ! Ameeya Bhusan Sahoo
       implicit none
       integer :: num, i, fact
       write (*,*) 'please enter a number : '
