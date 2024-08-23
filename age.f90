@@ -1,8 +1,5 @@
 program age
       !To find the youngest one in a group of three persons.
-      ! -----Programmer-----
-      ! =========================
-      ! Ameeya Bhusan Sahoo
       implicit none
       integer :: r,s,a
       write (*,*) 'Please enter the age of ram: '
